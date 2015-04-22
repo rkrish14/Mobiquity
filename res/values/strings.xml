@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobiquity App</string>
+    <string name="logout">Logout</string>
+    <string name="dropboximage">DropBox Image</string>
+    <string name="login">Sign into Dropbox</string>
+    <string name="imagedescription">image</string>
+    <string name="save">Save</string>
+	<string name="path">file:///sdcard/temporary_file.jpg</string>
+</resources>
