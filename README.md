@@ -1,3 +1,6 @@
+# Mobiquity
+Dropbox App - Code Challenge
+
 ### Completed Functionalities
 
 -	Allows a user to authenticate with their Dropbox credentials
@@ -13,5 +16,3 @@
 -	Allow user to record sound clips in addition to photographs
 -	Allow user to create and store text notes in addition to sound clips and photographs
 -	Provide a rich text editor for text notes
-
-
